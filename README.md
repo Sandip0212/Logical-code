@@ -1,4 +1,4 @@
-# Logical-code
+
 # 🧠 Logical Code – Java Logical Problems & Practice
 
 This repository contains a collection of **Java programs focused on logical problem solving**.  
